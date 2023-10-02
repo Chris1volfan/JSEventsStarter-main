@@ -29,6 +29,7 @@ function loadNews() {
             output += `<a href="${newsFeed[counter].url}"target="blank">${newsFeed[counter].tag}</a>`;
             output += `</div>`
             counter++;
+            
         }
     }
 
