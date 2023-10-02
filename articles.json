@@ -1,0 +1,43 @@
+[
+    {
+        "header": "Their vision - getting server-scale performance from handheld devices",
+        "brief": "Machine learning innovation reduces computer power usage",
+        "url": "https://news.wsu.edu/news/2023/09/14/machine-learning-innovation-reduces-computer-power-usage/",
+        "tag": "WSU News"
+    },
+
+    {
+        "header": "Computational model helps with diabetes drug design",
+        "brief": "Researchers can use the model to predict how engineered forms of insulin would perform in human patients, making it easier to bring these drugs to clinical trials",
+        "url": "https://news.mit.edu/2023/computational-model-helps-diabetes-drug-design-0920",
+        "tag": "MIT News"
+    },
+
+    {
+        "header": "How to keep people out of the emergency room",
+        "brief": "Help for immigrants in arranging primary care visits leads to substantial drop in ER visits and costs, a new study shows",
+        "url": "https://news.mit.edu/2023/keeping-people-out-emergency-room-primary-care-0919",
+        "tag": "MIT News"
+    },
+
+    {
+        "header": "This driverless car company is using chatbots to make its vehicles smarter",
+        "brief": "Large language models are the next big thing for robotics, making cars and other robots quicker to train and easier to control (if you trust them)",
+        "url": "https://www.technologyreview.com/2023/09/14/1079458/this-driverless-car-company-is-using-chatbots-to-make-its-vehicles-smarter/",
+        "tag": "MIT Technology Review"
+    },
+
+    {
+        "header": "Fast-Track Strain Engineering for Speedy Biomanufacturing",
+        "brief": "The time and money required to engineer microbes to produce vital medicines and chemicals can be dramatically reduced with a new model-based method",
+        "url": "https://newscenter.lbl.gov/2023/09/19/fast-track-strain-engineering-for-speedy-biomanufacturing/",
+        "tag": "Berkeley Lab News Center"
+    },
+
+    {
+        "header": "Smart Utility Meter Security Takes a Quantum Leap",
+        "brief": "Honeywell will secure its meters with cryptographic keys from Quantinuum",
+        "url": "https://spectrum.ieee.org/smart-meter-security",
+        "tag": "IEEE Spectrum"
+    }
+]
